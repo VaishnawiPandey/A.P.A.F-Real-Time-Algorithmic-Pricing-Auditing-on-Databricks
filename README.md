@@ -6,7 +6,7 @@
 ![Delta Lake](https://img.shields.io/badge/Delta_Lake-0073E6?style=for-the-badge&logo=databricks&logoColor=white)
 ![Big Data](https://img.shields.io/badge/Big_Data_Analytics-000000?style=for-the-badge&logo=data-companyl&logoColor=white)
 
-**A capstone project for the BITS Pilani M.Tech in Data Science (Big Data Analytics) program.**
+**A capstone project for the MBA Business Analytics at University Of Hyderabad (Big Data Analytics) program.**
 
 ---
 
